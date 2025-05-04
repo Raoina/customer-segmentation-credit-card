@@ -54,6 +54,6 @@ The goal is to identify meaningful customer groups to guide business strategy.
 
 ## 👩‍💻 Created by
 
-- **Rowaina Reda** 😎
-
-
+**Rowaina Reda**  
+[LinkedIn](https://www.linkedin.com/in/rowaina-reda) | [GitHub](https://github.com/rowaina-reda)  
+Email: [roainareda@gmail.com](mailto:roainareda@gmail.com)
