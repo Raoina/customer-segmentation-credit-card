@@ -17,9 +17,12 @@ The goal is to identify meaningful customer groups to guide business strategy.
 
 ## 🛠️ Tools & Libraries
 
-- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
-- Jupyter Notebook
-- (Optional) Power BI / Streamlit (for dashboard)
+- **Python**: Programming language used for analysis
+- **Pandas**: For data manipulation and analysis
+- **NumPy**: For numerical operations
+- **Matplotlib & Seaborn**: For data visualization
+- **Scikit-learn**: For K-Means clustering and model evaluation
+- **Jupyter Notebook**: For interactive code development
 
 ## 📁 Folder Structure
 
@@ -34,5 +37,23 @@ The goal is to identify meaningful customer groups to guide business strategy.
 
 
 ## 🧠 Business Insights
+
+
+
+## 📈 Next Steps
+
+1. **Data Preprocessing**: Clean the data, handle missing values, and prepare it for analysis.
+2. **Cluster Analysis**: Apply clustering algorithms (such as K-Means) and determine the optimal number of clusters.
+3. **Visualization**: Visualize the clusters and their features.
+4. **Business Insights**: Provide insights and recommendations for business strategy.
+
+## 🧠 Expected Outcomes
+
+- **Customer Segments**: Understand key customer segments and their behavior.
+- **Business Recommendations**: Develop actionable strategies for targeting each segment.
+
+## 👩‍💻 Created by
+
+- **Rowaina Reda** 😎
 
 
